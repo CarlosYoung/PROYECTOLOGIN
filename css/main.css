@@ -1,0 +1,70 @@
+.datos{
+    width: 500px;   
+    height: 600px;
+    background-color: dimgrey;
+    float: left;
+    margin-top: 100px;
+    margin-left: 450px;
+    opacity: 0.5;
+    filter: alpha(opacity=90);
+    border-radius: 20px;
+}
+.rellenar{
+    width: 250px;
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 120px;
+}
+.mail{
+    width: 250px;
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 120px;
+    text-align: center;
+}
+.mail1{
+    width: 250px;
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 120px;
+    text-align: center;
+}
+.password{
+    width: 250px;
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 120px;
+    text-align: center;
+}
+.password1{
+    width: 250px;
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 120px;
+    text-align: center;
+}
+.nombre{
+    width: 250px;
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 120px;
+    text-align: center;
+}
